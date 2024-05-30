@@ -1,7 +1,6 @@
 # CSE-340-Final-Project (a.k.a HikeUW)
 
-![Static Badge](https://img.shields.io/badge/Course_Number-CSE_340-yellow) ![Static Badge](https://img.shields.io/badge/Group_Number-14-brightgreen) ![Static Badge](https://img.shields.io/badge/Group_Members-4-brightgreen)
- ![Static Badge](https://img.shields.io/badge/License-MIT-red)
+![Static Badge](https://img.shields.io/badge/Course_Number-CSE_340-yellow) ![Static Badge](https://img.shields.io/badge/Group_Number-14-brightgreen) ![Static Badge](https://img.shields.io/badge/Group_Members-4-brightgreen)  ![GitHub License](https://img.shields.io/github/license/jacklyncui/CSE-340-Final-Project) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jacklyncui/CSE-340-Final-Project)
 
 HikeUW is an application built with Flutter. It aims to make lives easier at the University of Washington with many integrated features, including planning your schedule and finding resources around campus.
 
