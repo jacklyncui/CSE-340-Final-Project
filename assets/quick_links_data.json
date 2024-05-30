@@ -1,0 +1,22 @@
+[
+    {
+        "name": "MyUW",
+        "url": "https://my.uw.edu"
+    },
+    {
+        "name": "MyPlan",
+        "url": "https://myplan.uw.edu"
+    },
+    {
+        "name": "Canvas",
+        "url": "https://canvas.uw.edu"
+    },
+    {
+        "name": "Unofficial Transcript",
+        "url": "https://sdb.admin.uw.edu/students/uwnetid/unofficial.asp"
+    },
+    {
+        "name": "Notify.UW",
+        "url": "https://notify.uw.edu"
+    }
+]

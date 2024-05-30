@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Intramural Activities Building",
+    "fulladdress": "3924 Montlake Blvd NE, Seattle, WA 98195",
+    "phone": "(206) 543-4590",
+    "reviewCount": 584,
+    "averageRating": 4.5,
+    "googleMapsURL": "https://www.google.com/maps?cid=1291750054766533718",
+    "latitude": 47.6535921,
+    "longitude": -122.3015799,
+    "website": "http://recreation.uw.edu/",
+    "openingHours": "Thursday: [6 AM-10:30 PM], Friday: [6 AM-10:30 PM], Saturday: [9 AM-8:30 PM], Sunday: [9 AM-8:30 PM], Monday: [6 AM-10:30 PM], Tuesday: [6 AM-10:30 PM], Wednesday: [6 AM-10:30 PM]"
+  },
+  {
+    "name": "Husky Union Building",
+    "fulladdress": "4001 E Stevens Way NE, Seattle, WA 98195",
+    "phone": "(206) 543-8191",
+    "reviewCount": 1102,
+    "averageRating": 4.5,
+    "googleMapsURL": "https://www.google.com/maps?cid=14490213040960787014",
+    "latitude": 47.655389299999996,
+    "longitude": -122.30508449999999,
+    "website": "http://hub.washington.edu/",
+    "openingHours": "Thursday: [7 AM-10 PM], Friday: [7 AM-11 PM], Saturday: [8 AM-11 PM], Sunday: [Closed], Monday: [7 AM-10 PM], Tuesday: [7 AM-10 PM], Wednesday: [7 AM-10 PM]"
+  },
+  {
+    "name": "Burke Museum",
+    "description": "University of Washington museum explores Northwest history from dinosaurs to Native American life.",
+    "fulladdress": "4303 Memorial Way Northeast, Seattle, WA 98195",
+    "phone": "(206) 543-7907",
+    "reviewCount": 951,
+    "averageRating": 4.5,
+    "googleMapsURL": "https://www.google.com/maps?cid=14849234123748631754",
+    "latitude": 47.660432899999996,
+    "longitude": -122.31153649999999,
+    "website": "http://www.burkemuseum.org/",
+    "openingHours": "Thursday: [10 AM-5 PM], Friday: [10 AM-5 PM], Saturday: [10 AM-5 PM], Sunday: [10 AM-5 PM], Monday: [Closed], Tuesday: [10 AM-5 PM], Wednesday: [10 AM-5 PM]"
+  },
+  {
+    "name": "Waterfront Activities Center",
+    "description": "Campus site with a dock for renting kayaks, canoes & outdoor equipment; non-student rates available.",
+    "fulladdress": "3710 Montlake Blvd NE, Seattle, WA 98195",
+    "phone": "(206) 543-9433",
+    "reviewCount": 275,
+    "averageRating": 4.7,
+    "googleMapsURL": "https://www.google.com/maps?cid=11586482886221907028",
+    "latitude": 47.6485856,
+    "longitude": -122.2999012,
+    "website": "https://www.washington.edu/ima/waterfront/",
+    "openingHours": "Thursday: [10 AM-7 PM], Friday: [10 AM-7 PM], Saturday: [10 AM-7 PM], Sunday: [10 AM-7 PM], Monday: [Closed], Tuesday: [Closed], Wednesday: [Closed]"
+  },
+  {
+    "name": "Washington Park Arboretum",
+    "description": "On the shores of Lake Washington, this 230-acre preserve features rare trees & a Japanese garden.",
+    "fulladdress": "2300 Arboretum Dr E, Seattle, WA 98112",
+    "phone": "(206) 543-8800",
+    "reviewCount": 7320,
+    "averageRating": 4.8,
+    "googleMapsURL": "https://www.google.com/maps?cid=11695386533940199050",
+    "latitude": 47.6364162,
+    "longitude": -122.2958146,
+    "website": "https://botanicgardens.uw.edu/washington-park-arboretum/",
+    "openingHours": "Thursday: [8 AM-8 PM], Friday: [8 AM-8 PM], Saturday: [8 AM-8 PM], Sunday: [8 AM-8 PM], Monday: [8 AM-8 PM], Tuesday: [8 AM-8 PM], Wednesday: [8 AM-8 PM]"
+  },
+  {
+    "name": "Henry Art Gallery",
+    "description": "Modest-sized gallery at the University of Washington focusing on contemporary art exhibits.",
+    "fulladdress": "15th Ave NE & University of Washington, NE 41st St, Seattle, WA 98195",
+    "phone": "(206) 543-2280",
+    "reviewCount": 362,
+    "averageRating": 4.3,
+    "googleMapsURL": "https://www.google.com/maps?cid=8125824423033647840",
+    "latitude": 47.6562767,
+    "longitude": -122.3117219,
+    "website": "http://www.henryart.org/",
+    "openingHours": "Thursday: [10 AM-7 PM], Friday: [10 AM-5 PM], Saturday: [10 AM-5 PM], Sunday: [10 AM-5 PM], Monday: [Closed], Tuesday: [Closed], Wednesday: [Closed]"
+  }
+]

@@ -1,0 +1,2 @@
+### Changes
+Some of the changes that we made from some of the recommendations of our peer was to make the size of the text bigger in order to better the readability for the users. We increased the size of the numbers in the calendar. We also increased the size of the days of the week and the size of the event descriptions. We modified the selection border and color, which is grey, for users can see what day they selected. We also distinguish the color for today's date, which is purple.  
